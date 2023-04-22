@@ -1,4 +1,5 @@
 [
-  { "titulo": "nadar", "descripcion": "disfrutar la pileta" },
-  { "titulo": "leer", "descripcion": "leer un libro por año" }
+  { "titulo": "nadar", "descripcion": "nadar 50 piletas todos los días" },
+  { "titulo": "leer", "descripcion": "10 páginas por día" },
+  { "titulo": "cocinar", "descripcion": "hacer un asado" }
 ]
